@@ -5,6 +5,7 @@ namespace tateti
 {
     public class Jugador
     {
+        //Declaracion de la propiedad que almacena el tipo de ficha del jugador.
         public string tipo_ficha;
         public Hashtable fichas;
 

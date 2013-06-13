@@ -5,6 +5,7 @@ namespace tateti
 {
     public class Tablero
     {
+        //Declarando diccionario hash que manejara las posiciones del tablero
         public Hashtable posiciones;
 
         public Tablero()
